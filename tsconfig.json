@@ -1,0 +1,6 @@
+{
+    "files": [
+        "typings/main.d.ts",
+        "test/mailchimp-api.ts"
+    ]
+}

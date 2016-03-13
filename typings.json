@@ -1,0 +1,7 @@
+{
+    "name": "mailchimp-api",
+    "main": "mailchimp-api.d.ts",
+    "devDependencies": {
+        "mailchimp-api": "file:mailchimp-api.d.ts"
+    }
+}
